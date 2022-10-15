@@ -984,7 +984,12 @@ section {
   text-decoration: line-through;
 }
 
-/*none of ur business, mistake-corrector^^*/
+.mistake-corrector {
+  display: none;
+  color: red;
+  font-family: var(--font-primary);
+  font-weight: 100;
+}
 
 .pricing .buy-btn {
   display: inline-block;
