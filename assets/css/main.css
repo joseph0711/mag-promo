@@ -647,6 +647,19 @@ section {
   color: #001f8d;
 }
 
+.features h3 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: var(--font-secondary);
+  color: #001f8d;
+}
+
+.features ul h5 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #19335c;
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
